@@ -110,7 +110,7 @@ The project includes a complete **Business Requirements Document (BRD)** coverin
 - Future Phases
 
 **BRD:**  
-[View Business Requirements Document](.Coffee_Space_BRD.pdf)
+[View Business Requirements Document](https://github.com/fatmamohamedd14/coffee-space/blob/main/Coffee_Space_BRD.pdf)
 
 **Presentation:**  
 [View Case Study Presentation](.Coffee_Space_Presentation.pdf)
